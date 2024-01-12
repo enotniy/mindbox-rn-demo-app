@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mindbox-rn-demo-app",
+    "slug": "mindbox-rn-demo-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mindbox-rn-demo-app"
+}
