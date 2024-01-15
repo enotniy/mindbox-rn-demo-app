@@ -4674,6 +4674,11 @@ mimic-fn@^2.1.0:
   resolved "https://registry.yarnpkg.com/mimic-fn/-/mimic-fn-2.1.0.tgz#7ed2c2ccccaf84d3ffcb7a69b57711fc2083401b"
   integrity sha512-OqbOk5oEQeAZ8WXWydlu9HJjz9WVdEIvamMCcXmuqUYjTknH/sqsWvhQ3vgwKFRR1HpjvNBKQ37nbJgYzGqGcg==
 
+mindbox-sdk@2.8.2:
+  version "2.8.2"
+  resolved "https://registry.yarnpkg.com/mindbox-sdk/-/mindbox-sdk-2.8.2.tgz#193b2a747f9941c4491de495f38536fdfa971543"
+  integrity sha512-t5q5T+LcS302y5yuC4VaI47Pc+ae4uTmq8r2Oabc3PcdKT9ebu5UNkzNwnADdpoaxPR3LyK9b49ea/ZfNQwklA==
+
 "minimatch@2 || 3", minimatch@^3.0.2, minimatch@^3.0.4, minimatch@^3.1.1:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.2.tgz#19cd194bfd3e428f049a70817c038d89ab4be35b"
